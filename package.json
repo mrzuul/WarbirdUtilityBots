@@ -1,0 +1,27 @@
+{
+  "name": "warbirdutilitybots",
+  "version": "1.0.0",
+  "description": "Discords bots for the Warbirds Family server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzuul/WarbirdUtilityBots.git"
+  },
+  "author": "cz4r",
+  "license": "GNU GPL 3",
+  "bugs": {
+    "url": "https://github.com/mrzuul/WarbirdUtilityBots/issues"
+  },
+  "homepage": "https://github.com/mrzuul/WarbirdUtilityBots#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bottleneck": "^2.19.5",
+    "discord.js": "^11.5.1",
+    "node-ipc": "^9.1.1",
+    "sequelize": "^5.21.4",
+    "striptags": "^3.1.1"
+  }
+}
